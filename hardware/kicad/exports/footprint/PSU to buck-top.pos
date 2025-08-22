@@ -1,0 +1,12 @@
+### Footprint positions - created on 2025-08-22T13:55:03+0200 ###
+### Printed by KiCad version 9.0.2
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                   Package                                                      PosX       PosY       Rot  Side
+J1        Conn_01x02_Socket     AMASS_XT90PW-M_1x02_P10.90mm_Horizontal                   82.5500   -82.5500  180.0000  top
+J2        Screw_Terminal_01x02  TerminalBlock_CUI_TB007-508-02_1x02_P5.08mm_Horizontal    39.3700   -50.8000    0.0000  top
+J3        Screw_Terminal_01x02  TerminalBlock_CUI_TB007-508-02_1x02_P5.08mm_Horizontal    58.4200   -50.8000    0.0000  top
+J4        Screw_Terminal_01x02  TerminalBlock_CUI_TB007-508-02_1x02_P5.08mm_Horizontal    77.4700   -50.8000    0.0000  top
+J5        Screw_Terminal_01x02  TerminalBlock_CUI_TB007-508-02_1x02_P5.08mm_Horizontal    96.5200   -50.8000    0.0000  top
+J6        Screw_Terminal_01x02  TerminalBlock_CUI_TB007-508-02_1x02_P5.08mm_Horizontal   115.5700   -50.8000    0.0000  top
+## End
