@@ -23,7 +23,7 @@ DIY variable power supply using an ATX PSU and buck converter.
 | 1   | 4mm Banana plug to alligator clip       | Standard test leads                       | [Product page](https://www.aliexpress.com/item/1005006537881871.html) |
 | 1   | Enclosure                               | 3D printed (see Fusion file)              | [Mechanical (Fusion 360 + STL)](mechanical/)   |
 | 1   | PCB                                     | Connecting the ATX 12V to a single line   | [PCB design (Kicad + exports)](hardware/kicad/)   |
-| 1   | Screws M3x10 mm                         | Connecting the parts togheter             | [Product page](https://www.aliexpress.com/item/1005006537881871.html) |
+| ~30 | Screws M3x10 mm                         | Connecting the parts togheter             | [Product page](https://www.aliexpress.com/item/32836902463.html) |
 | —   | Wires, Heat Shrink, etc.                | For connections                           | — |
 
 ## Recommended 3d print settings
